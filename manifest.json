@@ -1,0 +1,64 @@
+{
+    "name":"Personal Information",
+    "short_name":"Personal Information",
+    "description": "Binvenid@s a Personal Information, pequeño formulario, donde podras introudcir información personal, así como también poder buscar tu colonía colocando tu código postal",
+    "background_color":"#25DBFA",
+    "theme_color":"#1C48C4",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons": [
+      {
+        "src": "./img/logo10.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo9.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo8.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo7.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo6.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo5.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo4.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo3.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo2.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/logo1.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
